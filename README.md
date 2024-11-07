@@ -4,6 +4,6 @@
 💞️ I’m looking to collaborate on projects involving web application development, database integration, and mobile-responsive design, and I’m excited to work with teams where I can both contribute and grow.
 
 <!---
-priyanka2003476/priyanka2003476 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+priyanka2003476/priyanka2003476 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile..
 You can click the Preview link to take a look at your changes.
 --->
